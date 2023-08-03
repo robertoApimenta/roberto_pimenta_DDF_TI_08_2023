@@ -2,7 +2,7 @@
 
 #### Como você implementaria uma análise de dados para rastrear a satisfação do cliente e a eficiência da equipe de suporte ao produto no contexto da plataforma Dadosfera?
 
-###### Resposta: Seguindo o contexto da plataforma Dadosfera implementaria uma análise seguindo estes passos:
+###### Seguindo o contexto da plataforma Dadosfera implementaria uma análise seguindo estes passos:
 
 1. Integar os dados: Centralizar todos os dados relevantes para análise, incluindo dados de suporte
 2. Processar os dados: Limpeza e normalização de dados, para garantir que estejam em uma escala coerente
