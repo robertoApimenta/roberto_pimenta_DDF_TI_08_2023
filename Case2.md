@@ -10,3 +10,5 @@
 - Testes e validação
 - Segurança e controle de acesso aos recursos de SSO, monitorando de perto o acesso dos usuários
 - Avaliação, realizar avaliações regulares para medir o impacto e eficiência daa nova plataforma
+
+###### Fonte: https://docs.dadosfera.ai/docs
